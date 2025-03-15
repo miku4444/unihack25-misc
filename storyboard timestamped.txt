@@ -1,0 +1,92 @@
+# 🎥 EchoDeck Hackathon Video - Storyboard & Shot List
+
+---
+
+## 🎭 Scene 1: The Barrier (0:00 - 0:50)
+
+### **Shot 1: Isolation** (0:00 - 0:05)
+**Visual:** Camera faces the ground, pavement fills the screen with grass along the edges. 
+**Sound:** Background ambiance, distant laughter.
+🎬 *Cane taps enter frame, rhythmic sound of a blind assistance cane tapping on pavement.*
+
+### **Shot 2: Following the Journey** (0:05 - 0:15)
+**Visual:** Slow tilt up to the legs of a blind actor. Pan wide and follow (walk backwards) as they move down the pavement.
+**Sound:** Footsteps, tapping cane, distant conversations growing louder.
+
+### **Shot 3: The Social World** (0:15 - 0:25)
+**Visual:** Medium shot of a group sitting at a table playing a card game.
+**Sound:** Laughter, indistinct chatter.
+
+### **Shot 4: Peeking Through** (0:25 - 0:30)
+**Visual:** Camera positioned behind an object (e.g., chair, doorframe), panning across the group, revealing a warm social gathering.
+**Sound:** Light conversation, laughter.
+
+### **Shot 5: The Exclusion** (0:30 - 0:40)
+**Visual:** Medium shot of the blind person sitting down, appearing hesitant. Others continue playing, unaware.
+**Sound:** Blind person timidly asks, "Uh… what are my cards?" Group reacts awkwardly.
+
+### **Shot 6: The Struggle** (0:40 - 0:50)
+**Visual:** Close-up of the blind person’s uncertain expression as they hesitate, hands hovering over their cards.
+**Sound:** Muffled laughter. A pause of silence. Awkwardness lingers.
+
+---
+
+## 🎭 Scene 2: The Solution (0:50 - 1:30)
+
+### **Shot 7: Introduction to EchoDeck** (0:50 - 1:00)
+**Visual:** Over-the-shoulder shot. Someone hands the blind person their phone. They open the EchoDeck web app.
+**Sound:** *Soft chime as the app starts.*
+
+### **Shot 8: The First Scan** (1:00 - 1:10)
+**Visual:** Camera zooms in on phone screen as it scans the cards.
+**Sound:** Positive *ding* as the app recognizes the cards.
+
+### **Shot 9: The Transformation** (1:10 - 1:20)
+**Visual:** Bright, joyful lighting. The blind person smiles as they confidently join the game.
+**Sound:** "Oh! I have a great move!" followed by excited chatter.
+
+### **Shot 10: Inclusion Realized** (1:20 - 1:30)
+**Visual:** Wide shot of the entire group playing, now fully engaged.
+**Sound:** Excited discussions, no more hesitation.
+
+### **Shot 11: Fade Out** (1:30 - 1:35)
+**Visual:** The game continues as the screen fades to black.
+**Sound:** Soft laughter, gentle music transition.
+
+---
+
+## 🎭 Scene 3: Presenting EchoDeck (1:35 - 2:50)
+
+### **Shot 12: The Pitch** (1:35 - 1:45)
+**Visual:** Text on screen: *"Presenting EchoDeck."*
+**Sound:** Voiceover: "Introducing EchoDeck—a simple, accessible way for visually impaired players to enjoy card games."
+
+### **Shot 13: How It Works** (1:45 - 2:00)
+**Visual:** Animated demo of EchoDeck UI, showing:
+1️⃣ Point your camera at your cards.
+2️⃣ The app identifies them.
+3️⃣ Designed for screen readers.
+**Sound:** Voiceover explaining each step.
+
+### **Shot 14: How It Helps** (2:00 - 2:10)
+**Visual:** Side-by-side of a traditional blind accessibility method vs. EchoDeck (e.g., manual Braille cards vs. quick scanning).
+**Sound:** "Unlike generic AI tools, EchoDeck is built specifically for gaming accessibility. One tap, instant feedback."
+
+### **Shot 15: Features Overview** (2:10 - 2:25)
+**Visual:** List of features appears on screen with visuals:
+- Persistent game tracking
+- Works across multiple card games
+- Optimized for mobile use
+- Future potential as a mobile app
+
+### **Shot 16: User Testimonial (Optional)** (2:25 - 2:40)
+**Visual:** A visually impaired user briefly shares their experience using EchoDeck.
+**Sound:** "This app finally lets me play with my friends like everyone else."
+
+### **Shot 17: Call to Action** (2:40 - 2:50)
+**Visual:** Final shot of the blind person smiling, playing with friends. Text appears: *"Gaming should be for everyone. EchoDeck makes it possible."*
+**Sound:** Music swells, then fades.
+
+---
+
+## 🎬 The End 🎴
